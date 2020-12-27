@@ -1,12 +1,12 @@
 {
   "name": "@yuea/cli-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cli core",
   "author": "EditYJ <158392613@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
+  "bin": {
     "yuea-cli": "bin/index.js"
   },
   "directories": {
